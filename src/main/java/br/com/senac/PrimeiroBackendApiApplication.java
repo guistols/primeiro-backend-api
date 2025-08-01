@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PrimeiroBackendApiApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(PrimeiroBackendApiApplication.class, args);
+
+
 	}
 
 }
